@@ -3,3 +3,9 @@
 <hr>
 
 #make web page alive == javascript
+
+> Syntax
+
+> Statements
+
+> Comments
