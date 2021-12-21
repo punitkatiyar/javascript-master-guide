@@ -1,0 +1,44 @@
+document.getElementById('demo').innerHTML = "Welcome to Javascript";
+// variable 4 type
+// type 1
+data = 1;
+msg = "Welcome to Javascript Variable";
+console.log(msg);
+document.getElementById('demo').innerHTML = msg;
+console.log(data);
+data = 10;
+console.log(data);
+myname = "Punit";
+MYNAME = "Rohit";
+//my name="Rahul";
+//my - name="Ducat";
+//1myname=100;
+myname1 = "India";
+//@mydata=100;
+my_name = "Ducat India";
+myName = "Ducat Punit"; // best
+console.log(myname);
+
+// type 2
+
+var mydata = 10;
+var myData;
+myData = 1000;
+console.log(myData);
+
+// type 3
+
+const mydata1 = 200;
+//const mydata1 = 300;
+//var mydata1 = 300;
+//mydata1 = 400;
+console.log(mydata1);
+
+// type 4 ecma script
+let data123 = 1010;
+//let data123 = 2020;
+//const data123 = 2020;
+//var data123 = 2020;
+data123 = 2020;
+console.log(data123);
+
