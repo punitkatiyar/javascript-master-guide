@@ -8,6 +8,16 @@
 
 > Comments
 
+> variable
+
+> datatype
+
+>control statement
+
+>loops
+
+>function
+
 <hr>
 <a href="https://punitkatiyar.github.io/">Back To Home Page</a>
 <hr>
