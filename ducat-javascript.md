@@ -3,9 +3,9 @@
 # JAVASCRIPT 24 Hrs.
 # Model-1 2 Hrs.
 ## Introduction to JavaScript
- Syntax 
- Statements 
- Comments
+> Syntax 
+> Statements 
+> Comments
 ## Model-2 1 Hrs.
 Enabling in various browsers 
 Popup Boxes
