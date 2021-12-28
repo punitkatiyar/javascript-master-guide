@@ -1,6 +1,6 @@
 # JavaScript For Creating Web Application
 
-## make web page alive == javascript
+## make web page alive 
 
 > Syntax
 
