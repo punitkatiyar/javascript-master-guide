@@ -34,7 +34,9 @@
 >Conditional
 >
 ## Model-4 6 Hrs.
+
 ## Conditional Statements
+
 >if
  
 >if...else 
@@ -42,7 +44,9 @@
 >if...else if...else 
 
 > Switch
+> 
 ### Loops
+
 > while 
 
 >do...while 
@@ -57,6 +61,7 @@
 
 ## Model-5 3 Hrs.
 ### Functions
+
 > User-defined Functions 
 
 > Function Syntax 
@@ -68,16 +73,27 @@
 > Built-in Functions 
 
 > paraseInt and parseFloat
+
 ## Model-6 2 Hrs.
-Events
- Introduction 
- Mouse Events 
- Keyboard Events 
- Form Events 
- Document/Window Events
+
+### Events
+
+>Introduction 
+
+>Mouse Events 
+
+>Keyboard Events 
+
+>Form Events 
+
+>Document/Window Events
+
 ## Model-7 2 Hrs.
+
 ### Cookies 
+
 ### Page redirection 
+
 ### Built-in Objects
 
 >Introduction 
@@ -109,16 +125,26 @@ Advanced javascript
  Validating Select Menus 
  Validating Textareas
 ## Model-9 2 Hrs.
-JS Document Object Model (DOM)
- Introduction
- DOM HTML
- DOM CSS
- DOM Events
+
+### JS Document Object Model (DOM)
+
+>Introduction
+
+>DOM HTML
+
+>DOM CSS
+
+>DOM Events
+
 ## Model-10 2 Hrs.
-JS Browser Object Model (BOM)
- JS Cookies
- JS Window
- JS Location
- JS Popups
- JS Time
+### JS Browser Object Model (BOM)
+> JS Cookies
+
+>JS Window
+
+>JS Location
+
+>JS Popups
+
+>JS Time
 ## Introduction to OOP concep
