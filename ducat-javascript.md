@@ -20,20 +20,27 @@
 >Prompt
 
 ## Model-3 2 Hrs.
-Variables 
-Operators
- Arithmetic 
- Assignment 
- Comparison 
- Logical 
- Conditional
+### Variables 
+>Operators
+
+>Arithmetic 
+
+>Assignment 
+
+>Comparison 
+
+>Logical 
+
+>Conditional
+>
 ## Model-4 6 Hrs.
-Conditional Statements
- if 
- if...else 
+## Conditional Statements
+>if
+ 
+>if...else 
  if...else if...else 
  Switch
-Loops
+### Loops
  while 
  do...while 
  for 
