@@ -38,15 +38,23 @@
 >if
  
 >if...else 
- if...else if...else 
- Switch
+
+>if...else if...else 
+
+> Switch
 ### Loops
- while 
- do...while 
- for 
- for...in Statement 
- Break 
- Continue
+> while 
+
+>do...while 
+
+>for 
+
+>for...in Statement 
+
+>Break 
+
+>Continue
+
 ## Model-5 3 Hrs.
 ### Functions
 > User-defined Functions 
@@ -68,19 +76,30 @@ Events
  Form Events 
  Document/Window Events
 ## Model-7 2 Hrs.
-Cookies 
-Page redirection 
-Built-in Objects
- Introduction 
- Number 
- Strings 
- Math 
- Arrays 
- Associative Array 
- Array Properties and Methods 
- Date 
- Boolean 
- Regexp
+### Cookies 
+### Page redirection 
+### Built-in Objects
+
+>Introduction 
+
+>Number 
+ 
+>Strings 
+
+>Math 
+
+>Arrays 
+
+>Associative Array 
+
+>Array Properties and Methods 
+
+>Date 
+
+>Boolean 
+
+>Regexp
+
 ## Model-8 2 Hrs.
 Advanced javascript
  Form Validations 
