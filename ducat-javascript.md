@@ -48,13 +48,18 @@
  Break 
  Continue
 ## Model-5 3 Hrs.
-Functions
- User-defined Functions 
- Function Syntax 
- Function with Arguments 
- Returning Values from Functions 
- Built-in Functions 
- paraseInt and parseFloat
+### Functions
+> User-defined Functions 
+
+> Function Syntax 
+
+> Function with Arguments 
+
+> eturning Values from Functions 
+
+> Built-in Functions 
+
+> paraseInt and parseFloat
 ## Model-6 2 Hrs.
 Events
  Introduction 
