@@ -10,11 +10,15 @@
 > Comments
 
 ## Model-2 1 Hrs.
-Enabling in various browsers 
-Popup Boxes
- Alert 
- Confirm 
- Prompt
+
+### Enabling in various browsers 
+### Popup Boxes
+>Alert 
+
+>Confirm 
+
+>Prompt
+
 ## Model-3 2 Hrs.
 Variables 
 Operators
