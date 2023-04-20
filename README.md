@@ -1,24 +1,28 @@
 # JavaScript For Creating Web Application
 
-## make web page alive 
+## Module 1
 
-> Syntax
+> Introduction javaScript.
 
-> Statements
+> JS Enviroments
 
-> Comments
+> JS Hello program
 
-> variable
+> JS Variable
 
-> datatype
+> Js DataType
 
->control statement
+> Template Literals
 
->loops
+> JS Oprater
 
->function
+> JS Conditional Statement
 
-## Jquery
+> JS Loops
+
+> JS Function and Anonymous Function
+
+> JS Popups
 
 <hr>
 <a href="https://punitkatiyar.github.io/">Back To Home Page</a>
