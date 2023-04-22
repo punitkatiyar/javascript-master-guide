@@ -1,4 +1,4 @@
-<img src="https://www.ducatindia.com/images/logo.png">
+<img src="https://www.techunitbook.com/view/image/techunitbook-logo.jpg">
 
 # JAVASCRIPT 24 Hrs.
 # Model-1 2 Hrs.
