@@ -1,7 +1,11 @@
 <img src="https://www.techunitbook.com/view/image/techunitbook-logo.jpg">
 
+<hr>
+
 # JAVASCRIPT 24 Hrs.
+
 # Model-1 2 Hrs.
+
 ## Introduction to JavaScript
 > Syntax 
 
