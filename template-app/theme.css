@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head {
+    background-color: royalblue;
+}
+
+.head h1 {
+    padding: 2%;
+}
+
+.mid {
+    min-height: 80vh;
+}
+
+.footer {
+    height: 8vh;
+    background-color: royalblue;
+}
