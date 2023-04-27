@@ -2,7 +2,7 @@
 
 ## Module 1
 
-> Introduction javaScript.
+> **Introduction javaScript.**
 
 > JS Enviroments
 
