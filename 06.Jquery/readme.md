@@ -7,6 +7,8 @@
 
 ## jQuery Effects
 
+> hide () , show () , toggle()
+
 ## jQuery HTML 
 
 > Get 
