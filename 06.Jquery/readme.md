@@ -5,4 +5,14 @@
 
 <hr>
 
+## jQuery Effects
+
+## jQuery HTML 
+
+## jQuery Traversing
+
+## jQuery AJAX
+
+
+
 https://swiperjs.com/
