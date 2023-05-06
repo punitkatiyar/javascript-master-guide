@@ -9,6 +9,19 @@
 
 ## jQuery HTML 
 
+> Get 
+
+> Set
+
+> Add
+
+> Remove 
+
+> css
+
+> Dimensions
+
+
 ## jQuery Traversing
 
 ## jQuery AJAX
