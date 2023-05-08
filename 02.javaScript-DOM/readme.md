@@ -24,3 +24,27 @@ const paragraphs = document.getElementsByClassName("paragraph");
 const images = document.getElementsByTagName("img");
 const navLinks = document.querySelectorAll("nav a");
 ```
+
+## HTML Code Like
+
+```
+<div id="myDiv">Hello, world!</div>
+```
+
+## Control using Javascript
+
+```
+// Get the element by its ID
+const myDiv = document.getElementById("myDiv");
+
+// Change the text content of the element
+myDiv.textContent = "Goodbye, world!";
+
+// Add a new attribute to the element
+myDiv.setAttribute("class", "highlight");
+
+// Add a new child element to the div
+const newElement = document.createElement("p");
+newElement.textContent = "This is a new paragraph.";
+myDiv.appendChild(newElement);
+```
