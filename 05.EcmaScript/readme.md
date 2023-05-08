@@ -8,7 +8,7 @@
  
 > ES6 module approach.
 
-## User Module
+## 1.User Module
 
 ```
 export let name = "Developer";
@@ -18,14 +18,14 @@ export function hello()
 }
 ```
 
-## App Module
+## 2.App Module
 
 ```
 import { name } from './module/user.js';
 console.log(name);
 ```
 
-## Template Module
+## 3.Template Module
 
 ```
 <!DOCTYPE html>
