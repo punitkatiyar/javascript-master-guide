@@ -1,6 +1,6 @@
 # JavaScript For Creating Web Application
 
-<img src="https://www.techunitbook.com/view/image/techunitbook-logo.jpg" width="50%">
+<!-- <img src="https://www.techunitbook.com/view/image/techunitbook-logo.jpg" width="50%"> -->
 
 ## Module 1
 
