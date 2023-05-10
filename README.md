@@ -1,4 +1,4 @@
-# JavaScript For Creating Web Application
+# 🥇 JavaScript Master Guide
 
 <!-- <img src="https://www.techunitbook.com/view/image/techunitbook-logo.jpg" width="50%"> -->
 
