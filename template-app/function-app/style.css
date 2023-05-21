@@ -1,0 +1,13 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+.head{ background-color: aqua;}
+.head h1{ padding: 2% 5%;}
+.banner{ height: 50vh; background-color: gold;}
+.banner h1{ color: white; text-align: center; padding-top: 20vh;}
+.mid{
+    min-height: 60vh;
+    background-color: whitesmoke;
+}
+.mid h1{ padding: 1%;}
+.mid p{ text-align: justify; padding: 1%; background-color: white;}
+.footer{ background-color: aqua;}
+.footer h4{ padding: 1% 5%;}
