@@ -48,3 +48,17 @@ const newElement = document.createElement("p");
 newElement.textContent = "This is a new paragraph.";
 myDiv.appendChild(newElement);
 ```
+
+## Interval in javascript
+
+```
+<p id="demo"></p>
+
+<script>
+setInterval(displayHello, 1000);
+
+function displayHello() {
+  document.getElementById("demo").innerHTML += "Hello";
+}
+</script>
+```
