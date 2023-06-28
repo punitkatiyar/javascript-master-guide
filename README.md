@@ -2,6 +2,8 @@
 
 <!-- <img src="https://www.techunitbook.com/view/image/techunitbook-logo.jpg" width="50%"> -->
 
+** the < script > tag is used to embed or reference external JavaScript code within an HTML document. The < script > tag supports various attributes that can modify its behavior and specify additional settings.**
+
 **console is a built-in object that provides a way to interact with the browser's debugging console or the terminal console (in Node.js). It provides a set of methods that allow developers to output information, such as log messages, warnings, errors, and other debugging information.**
 
 ## Some of the most commonly used console methods include:
