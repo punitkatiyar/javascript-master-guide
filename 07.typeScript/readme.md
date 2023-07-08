@@ -12,14 +12,14 @@ Version 5.1.6
 C:\node>  
 </pre>
 
-| <img src="setup-typescript.jpg" width="49%"> | <img src="setup-typescript.jpg" width="49%"> |
+| <img src="setup-typescript.jpg" width="100%"> | <img src="setup-typescript.jpg" width="100%"> |
 |---------------|-------------|
 
 ```json
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Punit",
+  "lastName": "Katiyar",
+  "email": "punit@techunitbook.com" 
 }
 ```
 
