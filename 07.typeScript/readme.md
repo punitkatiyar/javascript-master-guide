@@ -6,5 +6,5 @@
 
 
 
-<img src="setup-typescript.jpg" alt="javascript-master-guide">
+<img src="setup-typescript.jpg" alt="javascript-master-guide" width="450px" height="300px">
 
