@@ -12,7 +12,7 @@ Version 5.1.6
 C:\node>  
 </pre>
 
-| <img src="setup-typescript.jpg" width="300px"> | <img src="setup-typescript.jpg" width="300px"> |
+| <img src="setup-typescript.jpg" width="49%"> | <img src="setup-typescript.jpg" width="49%"> |
 |-------|-------------|
 
 
