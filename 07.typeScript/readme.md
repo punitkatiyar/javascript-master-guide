@@ -13,6 +13,7 @@ C:\node>
 </pre>
 
 | Hello | Ducat India |
+|-------|-------------|
 
 
 
