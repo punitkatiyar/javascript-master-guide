@@ -1,6 +1,6 @@
 # 🥇 JavaScript Master Guide
 
-<!-- <img src="https://www.techunitbook.com/view/image/techunitbook-logo.jpg" width="50%"> -->
+<img src="https://www.techunitbook.com/view/image/techunitbook-logo.jpg" width="50%"> 
 
 **< script > tag is used to embed or reference external JavaScript code within an HTML document. The < script > tag supports various attributes that can modify its behavior and specify additional settings.**
 
