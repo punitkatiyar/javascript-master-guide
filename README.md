@@ -4,6 +4,8 @@
 
 **< script > tag is used to embed or reference external JavaScript code within an HTML document. The < script > tag supports various attributes that can modify its behavior and specify additional settings.**
 
+## Script Tag Attribute
+
 > **src:** This attribute is used to specify the source file URL of the JavaScript code to be loaded.
 
 > **type:** The type attribute indicates the MIME type of the script content. The default value is "text/javascript". For modern JavaScript, you can use "module" to enable ES6 module
