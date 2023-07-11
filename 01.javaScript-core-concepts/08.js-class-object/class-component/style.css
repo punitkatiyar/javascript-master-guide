@@ -1,0 +1,17 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+header,nav,section,article,aside,footer{ display: block;}
+header{ background-color:rgba(0, 0, 0,0.70);}
+header a{ display: block; font-size: 2rem; color: white; padding: 2%; text-decoration: none;}
+nav{ background-color: rgba(255, 99, 71,0.80);}
+nav ul{ display: flex; gap: 5%; padding: 1% 2%;}
+nav ul li{ list-style: none;}
+nav ul li a{ text-decoration: none; color: white;}
+section{ min-height:600px; padding: 1vh 2%; display: flex; justify-content: space-between;}
+article{ width: 79%;}
+article img{ width: 100%; height: 500px;}
+.post{ background-color: whitesmoke;  margin-bottom: 1vh;}
+.post h1{ background-color: royalblue; color: white; padding: 1%; }
+.post p{ text-align: justify; padding: 1%;}
+aside{ width: 20%; background-color: gold;}
+footer{background-color: rgba(0, 0, 0, 0.70);}
+footer h4{ padding: 1% 2%; color: white; text-align: center;}
