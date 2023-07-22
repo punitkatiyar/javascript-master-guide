@@ -1,6 +1,6 @@
 # 🥇 JavaScript Master Guide
 
-javascript is a scripting laguage work with html css and web browsers to make web page alive.
+### javascript is a scripting laguage work with html css and web browsers to make web page alive.
 
 <hr>
 
