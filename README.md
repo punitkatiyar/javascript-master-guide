@@ -4,9 +4,8 @@
 
 <hr>
 
-> **script tag**
-
-> **script attribute**
+- **script tag**
+- **script attribute**
 
 <hr>
 
