@@ -4,9 +4,9 @@
 
 <hr>
 
-> **🦝 script tag**
+> **script tag**
 
-> **🦝 script attribute**
+> **script attribute**
 
 <hr>
 
