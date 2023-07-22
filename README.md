@@ -4,9 +4,9 @@ javascript is a scripting laguage work with html css and web browsers to make we
 
 <hr>
 
-> 🦝 script tag
+> **🦝 script tag**
 
-> 🦝 script attribute
+> **🦝 script attribute**
 
 <hr>
 
