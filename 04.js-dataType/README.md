@@ -1,4 +1,4 @@
-# javascript Data Type
+# javaScript Data Type
 
 ## Primitive Data Types:
 
