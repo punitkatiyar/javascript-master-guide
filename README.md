@@ -96,6 +96,9 @@ console.table(): Outputs data as a table in the console
 
 > JS Popups
 
+
+https://www.taniarascia.com/es6-syntax-and-feature-overview/
+
 <hr>
 <a href="https://punitkatiyar.github.io/">Back To Home Page</a>
 <hr>
