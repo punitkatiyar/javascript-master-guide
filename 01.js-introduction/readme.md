@@ -1,7 +1,7 @@
 # javaScript Introduction 
 
 **JavaScript is the programming language of the web. The overwhelming
-majority of websites use JavaScript, and all modern web browsers—on
+majority of websites use JavaScript, and all modern web browsers on
 desktops, tablets, and phones—include JavaScript interpreters, making
 JavaScript the most-deployed programming language in history. Over
 the last decade, Node.js has enabled JavaScript programming outside
