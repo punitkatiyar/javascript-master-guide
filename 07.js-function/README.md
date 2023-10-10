@@ -4,7 +4,7 @@
 
 # function : block of statement 
 
-## define the function
+## define the function 😎
 
 **A function in JavaScript can be declared using the function keyword, followed by the function name, a list of parameters enclosed in parentheses, and the function body**
 
@@ -16,7 +16,7 @@ function name(){
 }
 ```
 
-## call The function
+## call The function 😊
 
 ```
 name();
@@ -25,7 +25,7 @@ name();
 
 
 
-> call the function
+
 
 > passing the argument
 
