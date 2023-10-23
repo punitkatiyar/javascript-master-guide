@@ -9,3 +9,13 @@
 - document.write();
 
 - document.getElementById('');
+
+## alert
+
+- alert()
+
+- window.alert()
+
+- conform()
+
+- prompt() 
