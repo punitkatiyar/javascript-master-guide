@@ -2,7 +2,7 @@
 
 **install node js First nodejs.org/en**
 
-  ## Create A Package using [ npm init ] Command
+  ## 1.Create A Package using [ npm init ] Command
   
 ```
 C:\live-server>node -v
@@ -54,7 +54,7 @@ Is this OK? (yes) y
 C:\live-server>
 ```
 
-## Install lite-server [ npm install lite-server ]
+## 2.Install lite-server [ npm install lite-server ]
 
 ```
 C:\live-server>npm install lite-server
@@ -74,7 +74,7 @@ Run `npm audit` for details.
 C:\live-server>
 ```
 
-## Add Command To Package.json File Under Script
+## 3.Add Command To Package.json File Under Script
 
 ```
 {
@@ -98,5 +98,5 @@ C:\live-server>
 }
 ```
 
-## Run The Server Type npm start
+## 4.Run The Server Type npm start
 
