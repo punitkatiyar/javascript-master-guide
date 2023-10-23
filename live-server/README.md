@@ -2,7 +2,7 @@
 
 - install node js
 
-  ## Craete A Package using [ npm init ] Command
+  ## Create A Package using [ npm init ] Command
   
 ```
 C:\live-server>node -v
