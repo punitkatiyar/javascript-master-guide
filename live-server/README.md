@@ -74,7 +74,7 @@ Run `npm audit` for details.
 C:\live-server>
 ```
 
-## 3.Add Command To Package.json File Under Script
+## 3.Add Command To Package.json File Under scripts
 
 ```
 {
