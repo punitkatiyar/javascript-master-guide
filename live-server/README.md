@@ -2,7 +2,7 @@
 
 - install node js
 
-  ## Step One
+  ## Craete A Package using [ npm init ] Command
   
 ```
 C:\live-server>node -v
@@ -54,7 +54,7 @@ Is this OK? (yes) y
 C:\live-server>
 ```
 
-## Step Two
+## Install lite-server [ npm install lite-server ]
 
 ```
 C:\live-server>npm install lite-server
@@ -74,7 +74,7 @@ Run `npm audit` for details.
 C:\live-server>
 ```
 
-## Step Three
+## Add Command To Package.json File Under Script
 
 ```
 {
