@@ -1,6 +1,8 @@
 # Live Server Using Node JS
 
 - install node js
+
+  ## Step One
   
 ```
 C:\live-server>node -v
@@ -51,3 +53,50 @@ Is this OK? (yes) y
 
 C:\live-server>
 ```
+
+## Step Two
+
+```
+C:\live-server>npm install lite-server
+
+added 157 packages, and audited 158 packages in 11s
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+1 high severity vulnerability
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+
+C:\live-server>
+```
+
+## Step Three
+
+```
+{
+  "name": "live-server",
+  "version": "1.0.0",
+  "description": "Network app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"lite-server"
+  },
+  "keywords": [
+    "network",
+    "app"
+  ],
+  "author": "Punit Katiyar",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
+```
+
+## Run The Server Type npm start
+
