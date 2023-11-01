@@ -1,1 +1,2 @@
+const mySymbol = Symbol("Ducat");
 
