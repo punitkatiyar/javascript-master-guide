@@ -1,19 +1,34 @@
-# javaScript Condition 
+# Javascript Conditional Statement
 
-> if and else
+> if and else ( true : false )
 
-> nested if and else 
+## Syntax :
 
-> if else using element variable
-
-## if and else Example
 ```
-if(developer=='ui')
-{
-  console.log("Hello Web Designer");
+if(){
+
 }
-else
-{
-  console.log("Join Our Training Program");
+else{
+
 }
+
 ```
+
+## nested else
+
+> & , | , !
+
+
+```
+else{
+    if(user[0]==userEmail & user[1]==userPass){
+        res="Welcome";
+    }
+    else{
+        res="Id Password Do Not Match";
+
+    }
+}
+console.log(res);
+```
+
