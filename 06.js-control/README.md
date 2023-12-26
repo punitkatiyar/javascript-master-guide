@@ -1,4 +1,4 @@
-# Javascript Conditional Statement
+# Javascript Conditional Statements
 
 > if and else ( true : false )
 
@@ -14,7 +14,7 @@ else{
 
 ```
 
-## nested else
+## oprater with
 
 > & , | , !
 
