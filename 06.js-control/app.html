@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="res"></h1>
+    <script>
+        let tech=prompt("Enter your tech");
+        
+        let html='Hypertext Markup Language in variable';
+        // console.log(tech);
+        switch(tech){
+            //let html='Hypertext Markup Language in variable';
+
+            case "html":
+                console.log(html);
+                document.getElementById('res').innerHTML="Hypertext Markup Language'";
+                
+                break;
+            case "css":
+                console.log('Cascading Style Sheet');
+                break;
+            default :
+                console.log('Technilogy Not Found');
+        }
+
+
+
+
+
+    </script>
+    
+</body>
+</html>
