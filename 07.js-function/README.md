@@ -2,9 +2,9 @@
 
 **Functions are a fundamental concept in JavaScript, and they play a role in structuring and organizing code. Functions are blocks of reusable code that can be defined once and executed (called) multiple times.**
 
-# function : block of statement 
+# Function : block of statement 
 
-## define the function 😎
+## Define the function 😎
 
 **A function in JavaScript can be declared using the function keyword, followed by the function name, a list of parameters enclosed in parentheses, and the function body**
 
@@ -16,7 +16,7 @@ function name(){
 }
 ```
 
-## call The function 😊
+## Call The function 😊
 
 ```
 name();
@@ -27,11 +27,12 @@ name();
 
 
 
-> passing the argument
+> Passing the argument
 
-> setting default value
+> Setting default value
 
-> return and multiple return
+> Return and multiple return
 
 > Arrow Function
        
+> IFFE 
