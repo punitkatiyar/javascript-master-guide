@@ -16,8 +16,8 @@
 
 ## Complex Data Types:
 
-> **Object:** Represents a collection of key-value pairs and is used to store more complex data. Objects can be created using the new Object( ) syntax or object literals { }.
-
 > **Array:** Represents an ordered list of values. Arrays can contain any combination of data types and are created using square brackets [ ].
+
+> **Object:** Represents a collection of key-value pairs and is used to store more complex data. Objects can be created using the new Object( ) syntax or object literals { }.
 
 > **Function:** Represents a reusable block of code that performs a specific task. Functions can be defined using the function keyword or as arrow functions (( ) => { }).
