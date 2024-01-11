@@ -4,6 +4,10 @@
 
 ## 1. Module Definition
 
+> A module is a file that contains JavaScript code and may include variables, functions, classes, or any other JavaScript constructs.
+
+> Each module has its own scope, which means that the variables and functions declared in a module are not automatically visible in other modules.
+
 
 
 ## javaScript Fetch API
