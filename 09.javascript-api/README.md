@@ -4,7 +4,7 @@
 
 > It allows developers to create reusable pieces of code (modules) that can be imported and used in other parts of their applications.
 
-> ECMAScript modules were introduced as part of ECMAScript 6 (ES6) to address the need for a more scalable and modular approach.**
+> ECMAScript modules were introduced as part of ECMAScript 6 (ES6) to address the need for a more scalable and modular approach.
 
 ## 1. Module Definition
 
