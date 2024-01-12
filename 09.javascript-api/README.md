@@ -60,6 +60,10 @@ import myVariable from './myModule';
 
 **Modules are automatically in strict mode, which enforces a stricter set of rules and helps catch common coding errors.**
 
+## 7.Browser Support
+
+**Modern web browsers support ECMAScript modules. You can use the type="module" attribute in script tags to indicate that a script should be treated as a module.**
+
 
 
 
