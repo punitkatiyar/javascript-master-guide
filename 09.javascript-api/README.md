@@ -33,6 +33,38 @@ export function function1() {
 import { variable1, function1 } from './myModule';
 ```
 
+## 3.Default Exports
+
+**A module can have a default export, which is the main export of the module. It is imported without using curly braces {} and can be given any name when imported.**
+
+```
+// Default export in a module
+// File: myModule.js
+const variable1 = 'Some value';
+export default variable1;
+
+// Importing the default export
+// File: AnotherModule.js
+import myVariable from './myModule';
+```
+
+## 4.Module Dependency Graph
+
+**The ECMAScript module system relies on a module dependency graph to manage the relationships between modules. When one module depends on another, the module loader ensures that dependencies are loaded and executed in the correct order.**
+
+## 5.Asynchronous Loading
+
+**Modules are loaded asynchronously, which can improve the performance of web applications. This is in contrast to the CommonJS module system, where modules are loaded synchronously.**
+
+## 6.Strict Mode by Default
+
+**Modules are automatically in strict mode, which enforces a stricter set of rules and helps catch common coding errors.**
+
+
+
+
+
+
 
 
 ## javaScript Fetch API
