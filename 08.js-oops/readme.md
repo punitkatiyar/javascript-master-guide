@@ -1,5 +1,29 @@
 # JS And ES6 Module
 
+```
+class Application {
+    // gobal variable type
+    name = "Ducat India";
+    //method
+
+    constructor() {
+        console.log("Hello Devloper");
+    }
+    hello() {
+        return "Hello In Method of Application";
+    }
+    // hello();
+}
+
+let app = new Application;
+
+
+console.log(app);
+console.log(app.name);
+console.log(app.hello());
+
+```
+
 **A module is a self-contained unit of code that can be reused and imported into other programs. Modules help to organize code and avoid naming conflicts by keeping variables and functions local to the module.**
 
 # ES6 module approach.
