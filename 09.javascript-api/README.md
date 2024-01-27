@@ -1,4 +1,4 @@
-# javaScript API Integration 🏆
+# javaScript Module Integration 🏆
 
 > The ECMAScript module system is a standardized way of organizing and structuring code in JavaScript applications.
 
