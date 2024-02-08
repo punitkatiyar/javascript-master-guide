@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{ margin: 0; padding: 0;}
+        .head{ padding: 2% 5%; background-color: #404040;}
+        .head ul{ display: flex; justify-content: end; gap: 20px;}
+        .head ul li{ color: white; list-style: none;}
+        #login{ width: 300px; height: 300px; background-color: tomato; margin: 1vh auto; display: none;}
+        #reg{ width: 300px; height: 300px; background-color: teal; margin: 1vh auto; display: none;}
+    </style>
+</head>
+<body>
+<div class="head">
+    <ul>
+        <li onclick="panel('login')">login</li>
+        <li onclick="panel('reg')">register</li>
+    </ul>
+</div>
+
+<div id="login">
+    <h1>login</h1>
+</div>
+<div id="reg">
+    <h1>Register</h1>
+</div>
+
+<script>
+    function panel(pData){
+        if(pData=='login'){
+            document.getElementById('login').style.display='block';
+            document.getElementById('reg').style.display='none';
+        }
+        else if(pData=='reg'){
+            document.getElementById('login').style.display='none';
+            document.getElementById('reg').style.display='block';
+        }
+    }
+</script>
+
+
+
+
+
+
+    
+</body>
+</html>
