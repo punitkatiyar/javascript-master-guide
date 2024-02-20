@@ -1,6 +1,6 @@
 # 🥇 JavaScript Master Guide
 
-### javascript is a scripting laguage work with html css and web browsers to make web page alive.
+***javascript is a scripting laguage work with html css and web browsers to make web page alive.***
 
 <hr>
 
@@ -38,15 +38,7 @@
 <script src="app.js" crossorigin="anonymous"></script>
 ```
 
-
-
-
-
-
-
-
-
-
+## console  
 
 **console is a built-in object that provides a way to interact with the browser's debugging console or the terminal console (in Node.js). It provides a set of methods that allow developers to output information, such as log messages, warnings, errors, and other debugging information.**
 
