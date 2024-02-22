@@ -62,7 +62,7 @@ console.table(): Outputs data as a table in the console
 
 
 
-
+<!--
 
 ## Module 1
 
@@ -88,6 +88,7 @@ console.table(): Outputs data as a table in the console
 
 > JS Popups
 
+-->
 
 https://www.taniarascia.com/es6-syntax-and-feature-overview/
 
