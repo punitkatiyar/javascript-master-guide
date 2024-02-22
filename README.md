@@ -28,6 +28,8 @@
 
 >  **crossorigin:** The crossorigin attribute is used when loading scripts from different domains. It controls whether the script can access resources from a different origin.
 
+##  Script Tag Attribute Example
+
 ```
 <script src="app.js"></script>
 <script src="app.js" type="text/javascript"></script>
