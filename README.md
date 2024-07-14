@@ -4,11 +4,11 @@
 
 ## Where to use javascript 
 
-> DOM
+- **DOM :** Document Object Model
 
-> BOM
+- **BOM :**  Browser Object Model
 
-> Console   
+- **console :** For Developer   
 
 
 
