@@ -2,6 +2,18 @@
 
 ***javascript is a scripting laguage work with html css and web browsers to make web page alive.***
 
+## Where to use javascript 
+
+> DOM
+
+> BOM
+
+> Console   
+
+
+
+
+
 <hr>
 
 - **Script Tag**
