@@ -2,7 +2,7 @@
 
 ***javascript is a scripting laguage work with html css and web browsers to make web page alive.***
 
-## Where to use javascript 
+## Where we use javascript 
 
 - **DOM :** Document Object Model
 
@@ -10,7 +10,7 @@
 
 - **console :** For Developer   
 
-
+- **Server :** with Node
 
 
 
