@@ -1,6 +1,4 @@
-# javaScript Introduction 
-
-## Js Varibale with descriptive name Convension
+# Js Varibale with descriptive name Convension
 
 ## var 
 
