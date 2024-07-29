@@ -64,13 +64,6 @@ import myVariable from './myModule';
 
 **Modern web browsers support ECMAScript modules. You can use the type="module" attribute in script tags to indicate that a script should be treated as a module.**
 
-
-
-
-
-
-
-
 ## javaScript Fetch API
 
 ```
