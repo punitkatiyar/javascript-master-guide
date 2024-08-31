@@ -1,5 +1,21 @@
 # javaScript Introduction 
 
+Variable declaration
+Constant declaration
+Arrow function syntax
+Template literals
+Implicit returns
+Key/property shorthand
+Method definition shorthand
+Destructuring (object matching)
+Array iteration (looping)
+Default parameters
+Spread syntax
+Classes/constructor functions
+Inheritance
+Modules - export/import
+Promises/callbacks
+
 **JavaScript is the programming language of the web. The overwhelming
 majority of websites use JavaScript, and all modern web browsers on
 desktops, tablets, and phones—include JavaScript interpreters, making
