@@ -2,11 +2,14 @@
 
 **JavaScript modules are reusable pieces of code that can be imported and exported between files. They allow for better organization, maintenance, and encapsulation of code. Modules are part of the ECMAScript 6 (ES6) specification and are commonly used in modern JavaScript development.**
 
+<!--
 > Module system is a standardized way of organizing and structuring code in JavaScript applications.
 
 > It allows developers to create reusable pieces of code (modules) that can be imported and used in other parts of their applications.
 
 > Modules were introduced as part of ES6 to address the need for a more scalable and modular approach.
+
+-->
 
 ## 1. Module Definition
 
