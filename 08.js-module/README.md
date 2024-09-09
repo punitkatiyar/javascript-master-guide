@@ -23,6 +23,12 @@
 
 > **Importing:** You can import exported elements from one module into another.
 
+## 3. Types of Exports
+
+> **Named Exports:** Multiple exports from a module; you can selectively import them by name.
+
+> **Default Exports:** A single export per module; you can import it without using the specific name.
+
 
 ```
 // Exporting from a module
