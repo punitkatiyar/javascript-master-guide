@@ -25,10 +25,11 @@
 
 ## 3. Types of Exports
 
-> **Named Exports:** Multiple exports from a module; you can selectively import them by name.
+### **Named Exports:** Multiple exports from a module; you can selectively import them by name.
+
+> Exports 
 
 ```
-// Exporting named functions
 export function add(a, b) {
   return a + b;
 }
@@ -50,7 +51,7 @@ console.log(subtract(5, 3));   // Output: 2
 
 
 
-> **Default Exports:** A single export per module; you can import it without using the specific name.
+### **Default Exports:** A single export per module; you can import it without using the specific name.
 
 
 ```
