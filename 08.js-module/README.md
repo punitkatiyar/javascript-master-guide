@@ -27,6 +27,29 @@
 
 > **Named Exports:** Multiple exports from a module; you can selectively import them by name.
 
+```
+// Exporting named functions
+export function add(a, b) {
+  return a + b;
+}
+
+export function subtract(a, b) {
+  return a - b;
+}
+```
+
+> import
+
+```
+// Importing named exports
+import { add, subtract } from './mathUtils.js';
+
+console.log(add(5, 3));        // Output: 8
+console.log(subtract(5, 3));   // Output: 2
+```
+
+
+
 > **Default Exports:** A single export per module; you can import it without using the specific name.
 
 
