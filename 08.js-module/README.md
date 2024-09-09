@@ -13,22 +13,22 @@
 
 ## 1. Module Definition
 
-> A module is a file that contains JavaScript code and may include variables, functions, classes, or any other JavaScript constructs.
+> A module is a file that contains JavaScript code and may include variables, functions, classes.
 
 > Each module has its own scope, which means that the variables and functions declared in a module are not automatically visible in other modules.
->
 
-## 2. Export and Import Statements
+## 2. Key Concepts of JavaScript Modules
 
-> The export statement is used to explicitly export variables, functions, or classes from a module.
+> **Exporting:** You can export functions, objects, or primitive values from a module so they can be used in other modules.
 
-> The import statement is used to import exports from other modules.
+> **Importing:** You can import exported elements from one module into another.
 
 
 ```
 // Exporting from a module
 // File: myModule.js
 export const variable1 = 'Some value';
+
 export function function1() {
   // function1 logic
 }
