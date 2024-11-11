@@ -1,5 +1,15 @@
 # Js Varibale with descriptive name Convension
 
+## Multi Words Variable Names
+
+> Camel Case
+
+> Pascal Case
+
+> Snake Case
+
+<hr/>
+
 ## var 
 
 **var: var is the oldest keyword for variable declaration in JavaScript. It has function scope or global scope, but it does not have block scope. Variables declared with var are hoisted, meaning they are moved to the top of their scope during the compilation phase. This allows you to access and assign values to them before they are declared in the code. var variables can be redeclared and reassigned.**
