@@ -8,7 +8,9 @@
 
 > info() 
 
-## Document class
+## document
+
+The document object in JavaScript is a part of the Document Object Model (DOM) and represents the entire webpage (HTML document) that is loaded in the browser. It allows JavaScript to access, modify, and manipulate the content, structure, and style of a webpage dynamically.
 
 - write();
 
