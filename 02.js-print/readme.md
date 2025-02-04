@@ -18,6 +18,8 @@ The document object in JavaScript is a part of the Document Object Model (DOM) a
 
 ## window : browser
 
+The window object in JavaScript represents the browser window that contains a web page. It is the global object in client-side JavaScript, meaning all global variables, functions, and objects are automatically part of it.
+
 - alert()
 
 - window.alert()
