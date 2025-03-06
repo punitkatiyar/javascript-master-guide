@@ -11,3 +11,20 @@ Local storage allows you to store data in the browser persistently, meaning the 
 - localStorage.removeItem(key): Deletes a specific item.
 
 - localStorage.clear(): Clears all stored data.
+
+## Example 
+
+  ```
+// Save data to localStorage
+localStorage.setItem("username", "JohnDoe");
+
+// Retrieve data
+const username = localStorage.getItem("username");
+console.log(username);
+
+// Remove data
+localStorage.removeItem("username");
+
+// Clear all data
+localStorage.clear();
+  ```
