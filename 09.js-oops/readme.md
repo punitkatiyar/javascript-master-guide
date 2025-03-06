@@ -10,6 +10,26 @@ it is a programming paradigm that revolves around the concept of "objects." It's
 
 - **Use Functional OOP** if you prefer immutability and composability (e.g., React in JavaScript).
 
+## Key OOP Concepts in JavaScript:
+
+## 1. Objects
+
+- Everything in JavaScript is an object or acts like one (except primitive data types).
+
+- Objects contain properties (key-value pairs) and methods (functions inside objects).
+
+```
+let person = {
+    name: "admin",
+    age: 30,
+    greet: function() {
+        console.log(`Hello, my name is ${this.name}`);
+    }
+};
+
+person.greet(); // Output: Hello, my name is admin
+```
+
 
 
 
