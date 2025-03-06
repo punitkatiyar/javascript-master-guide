@@ -1,11 +1,13 @@
-# Window: localStorage property
+# local Storage 
 
-**The localStorage read-only property of the window interface allows you to access a Storage object for the Document's origin; the stored data is saved across browser sessions.**
+Local storage allows you to store data in the browser persistently, meaning the data remains even after a page reload or browser restart.
 
-> localStorage.setItem("myCat", "Tom");
+## Basic Methods
 
-> const cat = localStorage.getItem("myCat");
+- localStorage.setItem(key, value): Stores data.
 
-> localStorage.removeItem("myCat");
+- localStorage.getItem(key): Retrieves data.
 
-> localStorage.clear();
+- localStorage.removeItem(key): Deletes a specific item.
+
+- localStorage.clear(): Clears all stored data.
