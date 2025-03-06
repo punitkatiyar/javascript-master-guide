@@ -4,11 +4,11 @@ it is a programming paradigm that revolves around the concept of "objects." It's
 
 ## Which OOP Approach Should You Use?
 
-> **Use Class-Based OOP** if you work with Java, C++, C#, or Python in an enterprise setting.
+- **Use Class-Based OOP** if you work with Java, C++, C#, or Python in an enterprise setting.
 
-> **Use Prototype-Based OOP** when working with JavaScript (before ES6).
+- **Use Prototype-Based OOP** when working with JavaScript (before ES6).
 
-> **Use Functional OOP** if you prefer immutability and composability (e.g., React in JavaScript).
+- **Use Functional OOP** if you prefer immutability and composability (e.g., React in JavaScript).
 
 
 
