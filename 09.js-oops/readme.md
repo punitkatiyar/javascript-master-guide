@@ -1,4 +1,14 @@
-# JS And ES6 Module
+# javascript Object Oriented programing (OOP) 
+
+JavaScript is an object-oriented programming (OOP) language, though it differs from traditional class-based OOP languages like Java and C++. JavaScript follows a prototype-based approach, but with the introduction of ES6 classes, it also supports class-based OOP.
+
+## Which OOP Approach Should You Use?
+
+> Use Class-Based OOP if you work with Java, C++, C#, or Python in an enterprise setting.
+
+> Use Prototype-Based OOP when working with JavaScript (before ES6).
+
+> Use Functional OOP if you prefer immutability and composability (e.g., React in JavaScript).
 
 ```
 class Application {
@@ -24,43 +34,7 @@ console.log(app.hello());
 
 ```
 
-**A module is a self-contained unit of code that can be reused and imported into other programs. Modules help to organize code and avoid naming conflicts by keeping variables and functions local to the module.**
 
-# ES6 module approach.
 
-## 1.User Module
-
-```
-export let name = "Developer";
-export function hello()
-{
-    console.log("Hello");
-}
-```
-
-## 2.App Module
-
-```
-import { name } from './module/user.js';
-console.log(name);
-```
-
-## 3.Template Module
-
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tech Punit | Js Application</title>
-</head>
-<body>
-    <div id="root"></div>
-<script src="./app.js" type="module"></script>
-</body>
-</html>
-```
 
 
