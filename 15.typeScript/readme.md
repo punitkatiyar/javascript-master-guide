@@ -13,9 +13,10 @@ C:\node>
 </pre>
 
 | <img src="setup-typescript.jpg" width="100%"> | <img src="setup-typescript.jpg" width="100%"> |
-|---------------|-------------|
 
-```json
+
+```
+json
 {
   "firstName": "Punit",
   "lastName": "Katiyar",
