@@ -1,3 +1,8 @@
+# Web Components
+
+**Web Components are a set of features that provide a standard component model for the web allowing for encapsulation and interoperability of individual HTML elements. Web Components are a popular approach when building microfrontends.**
+
+
 ```
 class Ducat extends HTMLElement {
     constructor() {
