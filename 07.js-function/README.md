@@ -2,13 +2,7 @@
 
 **Functions are a fundamental concept in JavaScript, and they play a role in structuring and organizing code. Functions are blocks of reusable code that can be defined once and executed (called) multiple times.**
 
-## Function Type
- 
-> Pre Define Function  Ex. log() , write() , map()
-
-> User Define function 
-
-## Function Rules 💬.
+## Basic Function 
 
 > Define The Function
 
@@ -78,4 +72,5 @@ name();
 > IFFE 
 
 -->
+
 
