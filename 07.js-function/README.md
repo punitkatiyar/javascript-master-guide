@@ -30,8 +30,6 @@
 
 > Immediately Invoked Function Expression (IIFE)
 
-> Rest Parameters
-
 > Spread Operator with Functions
 
 > Closures
@@ -72,5 +70,6 @@ name();
 > IFFE 
 
 -->
+
 
 
