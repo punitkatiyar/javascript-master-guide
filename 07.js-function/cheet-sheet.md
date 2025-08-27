@@ -123,10 +123,11 @@ console.log(maxNum(...arr)); // Output: 9
 
 ✅ Use Case: Passing arrays to functions.
 
-12. Closures
+#12. Closures
 
-(A function that remembers variables from its outer scope.)
+**(A function that remembers variables from its outer scope.)**
 
+```
 function counter() {
   let count = 0;
   return function () {
@@ -138,48 +139,28 @@ function counter() {
 const increment = counter();
 console.log(increment()); // 1
 console.log(increment()); // 2
-
+```
 
 ✅ Use Case: Data privacy, encapsulation.
 
-13. Recursion
+# 13. Recursion
 
-(A function that calls itself.)
+**(A function that calls itself.)**
 
+```
 function factorial(n) {
   if (n === 0) return 1;
   return n * factorial(n - 1);
 }
 console.log(factorial(5)); // Output: 120
-
+```
 
 ✅ Use Case: Tree traversal, mathematical problems.
 
-14. Async Functions (ES8+)
-async function fetchData() {
-  return "Data loaded!";
-}
-fetchData().then(console.log);  // Output: Data loaded!
 
+# 14. Generator Functions
 
-✅ Use Case: Handle promises more cleanly.
-
-15. Async + Await (API Example)
-async function getUsers() {
-  try {
-    let response = await fetch("https://jsonplaceholder.typicode.com/users");
-    let data = await response.json();
-    console.log(data);
-  } catch (err) {
-    console.error("Error:", err);
-  }
-}
-getUsers();
-
-
-✅ Use Case: Fetching API data.
-
-16. Generator Functions
+```
 function* numberGen() {
   yield 1;
   yield 2;
@@ -189,13 +170,23 @@ const gen = numberGen();
 console.log(gen.next().value); // 1
 console.log(gen.next().value); // 2
 console.log(gen.next().value); // 3
-
+```
 
 ✅ Use Case: Iterators, lazy evaluation.
 
-17. Function Constructor (rarely used)
+# 15. Function Constructor (rarely used)
+
+```
 const add = new Function("a", "b", "return a + b");
 console.log(add(3, 4)); // Output: 7
 
+```
 
 ✅ Use Case: Dynamic function creation (not recommended for normal use).
+
+
+
+
+
+
+
