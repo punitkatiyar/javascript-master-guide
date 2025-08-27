@@ -27,6 +27,8 @@
 > Anontmous Function
 
 > Arrow Function
+
+<!--
 # Function : block of statement 
 
 ## Define the function 😎
@@ -45,12 +47,7 @@ function name(){
 
 ```
 name();
-```
-
-
-
-
-
-
-       
+```  
 > IFFE 
+
+-->
