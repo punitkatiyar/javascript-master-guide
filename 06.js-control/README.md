@@ -1,5 +1,7 @@
 # Javascript Conditional Statements
 
+**Used to make decisions based on conditions.**
+
 > if and else ( true : false )
 
 ## Syntax :
@@ -31,4 +33,5 @@ else{
 }
 console.log(res);
 ```
+
 
