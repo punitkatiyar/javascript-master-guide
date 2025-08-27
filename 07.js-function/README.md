@@ -22,11 +22,38 @@
 
 > Multiple Return With Array And Object
 
-## Adnvance ES6 
+## Adnvance Function
 
-> Anontmous Function
+> Function Expressions
 
-> Arrow Function
+> Anonymous Functions
+
+> Arrow Functions
+
+> Callback Functions
+
+>  Higher-Order Functions
+
+> Immediately Invoked Function Expression (IIFE)
+
+> Rest Parameters
+
+> Spread Operator with Functions
+
+> Closures
+
+> Recursion
+
+> Generator Functions
+
+> Function Constructor (rarely used)       
+
+
+
+
+
+
+
 
 <!--
 # Function : block of statement 
@@ -51,3 +78,4 @@ name();
 > IFFE 
 
 -->
+
