@@ -101,17 +101,8 @@ console.log(double(5));  // Output: 10
 
 ✅ Use Case: Run code instantly, avoid polluting global scope.
 
-# 10. Rest Parameters
-```
-function sum(...numbers) {
-  return numbers.reduce((total, num) => total + num, 0);
-}
-console.log(sum(1, 2, 3, 4)); // Output: 10
-```
 
-✅ Use Case: Accept variable number of arguments.
-
-# 11. Spread Operator with Functions
+# 10. Spread Operator with Functions
 
 ```
 function maxNum(a, b, c) {
@@ -123,7 +114,7 @@ console.log(maxNum(...arr)); // Output: 9
 
 ✅ Use Case: Passing arrays to functions.
 
-#12. Closures
+# 11. Closures
 
 **(A function that remembers variables from its outer scope.)**
 
@@ -143,7 +134,7 @@ console.log(increment()); // 2
 
 ✅ Use Case: Data privacy, encapsulation.
 
-# 13. Recursion
+# 12. Recursion
 
 **(A function that calls itself.)**
 
@@ -158,7 +149,7 @@ console.log(factorial(5)); // Output: 120
 ✅ Use Case: Tree traversal, mathematical problems.
 
 
-# 14. Generator Functions
+# 13. Generator Functions
 
 ```
 function* numberGen() {
@@ -174,7 +165,7 @@ console.log(gen.next().value); // 3
 
 ✅ Use Case: Iterators, lazy evaluation.
 
-# 15. Function Constructor (rarely used)
+# 14. Function Constructor (rarely used)
 
 ```
 const add = new Function("a", "b", "return a + b");
