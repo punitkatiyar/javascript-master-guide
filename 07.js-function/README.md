@@ -16,7 +16,7 @@
 
 > Multiple Return With Array And Object
 
-## Adnvance Function
+## Advance Function
 
 > Function Expressions
 
@@ -70,6 +70,7 @@ name();
 > IFFE 
 
 -->
+
 
 
 
