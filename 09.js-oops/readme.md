@@ -30,15 +30,6 @@ let person = {
 person.greet(); // Output: Hello, my name is admin
 ```
 
-
-
-
-
-
-
-
-
-
 ```
 class Application {
     // gobal variable type
@@ -62,8 +53,4 @@ console.log(app.name);
 console.log(app.hello());
 
 ```
-
-
-
-
 
