@@ -20,23 +20,7 @@ Other environments
  └── Desktop/Mobile frameworks
 ```
 
-## JavaScript Environment & Execution
 
-```
-       JavaScript Runtime
-              │
-       ┌──────┴──────┐
-       │             │
-   JS Engine     Web APIs
-       │             │
-   Call Stack    DOM / Timer
-       │          Fetch
-       └──────┬──────┘
-              │
-          Event Loop
-              │
-        Callback Queue
-```
 
 
 
