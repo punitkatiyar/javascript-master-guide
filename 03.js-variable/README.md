@@ -24,7 +24,15 @@
 
 **let: let was introduced in ECMAScript 6 (ES6) and has block scope. Variables declared with let are limited to the block in which they are declared (e.g., inside a loop or if statement). They are not hoisted like var variables, so you must declare them before using them. let variables can be reassigned but not redeclared within the same scope.**
 
-<hr>
+## var vs let vs const
+
+| Feature   | var      | let   | const     |
+| --------- | -------- | ----- | --------- |
+| Scope     | Function | Block | Block     |
+| Reassign  | Yes      | Yes   | No        |
+| Redeclare | Yes      | No    | No        |
+| Modern JS | Avoid    | Yes   | Preferred |
+
 
 ## Example of scope 
 
