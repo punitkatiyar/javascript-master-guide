@@ -2,6 +2,8 @@
 
 > **JavaScript is a high-level, dynamically typed, interpreted/JIT-compiled programming language primarily used to create interactive web applications.**
 
+## Where JavaScript runs
+
 ```
 Browser
  ├── Chrome
