@@ -1,6 +1,6 @@
 # 🥇 JavaScript Master Guide
 
-***JavaScript is a high-level, dynamically typed, interpreted/JIT-compiled programming language primarily used to create interactive web applications.***
+**JavaScript is a high-level, dynamically typed, interpreted/JIT-compiled programming language primarily used to create interactive web applications.**
 
 ```
 Browser
