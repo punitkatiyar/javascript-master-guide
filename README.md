@@ -1,6 +1,6 @@
 # 🥇 JavaScript Master Guide
 
-***javascript is a scripting laguage work with html css and web browsers to make web page alive.***
+***JavaScript is a high-level, dynamically typed, interpreted/JIT-compiled programming language primarily used to create interactive web applications.***
 
 ```
 Browser
