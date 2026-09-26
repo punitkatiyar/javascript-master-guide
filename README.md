@@ -29,6 +29,7 @@
                  PROFESSIONAL
                         │
        Node.js • TypeScript • Testing
+                        |
        Performance • Security • Design
                         │
                 REAL-WORLD PROJECTS
