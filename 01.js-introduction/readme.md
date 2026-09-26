@@ -1,5 +1,23 @@
 # javaScript Introduction 
 
+
+- What is JavaScript?
+- History and evolution
+- JavaScript vs Java
+- JavaScript engines
+- ECMAScript
+- Where JavaScript is used
+- Browser vs server-side JavaScript
+- Setting up VS Code
+- Browser DevTools
+- Running JavaScript with Node.js
+
+---
+> Goal: Build a strong programming foundation.
+---
+
+
+
 Variable declaration
 Constant declaration
 Arrow function syntax
