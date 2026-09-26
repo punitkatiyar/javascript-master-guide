@@ -2,27 +2,7 @@
 
 **JavaScript is a high-level, dynamically typed, interpreted/JIT-compiled programming language primarily used to create interactive web applications.**
 
-| Level        | Modules           | Focus                         |
-| ------------ | ----------------- | ----------------------------- |
-| **Level 1**  | Fundamentals      | Programming basics            |
-| **Level 2**  | Core JavaScript   | Functions, arrays, objects    |
-| **Level 3**  | Modern JS         | ES6+                          |
-| **Level 4**  | Browser JS        | DOM & events                  |
-| **Level 5**  | Async JS          | Promises, async/await         |
-| **Level 6**  | APIs              | REST & Fetch                  |
-| **Level 7**  | Advanced JS       | Closures, prototypes, runtime |
-| **Level 8**  | Node.js           | Backend development           |
-| **Level 9**  | Testing           | Unit & integration testing    |
-| **Level 10** | Security          | Secure coding                 |
-| **Level 11** | Performance       | Optimization                  |
-| **Level 12** | TypeScript        | Enterprise development        |
-| **Level 13** | React | Application development       |
-| **Level 14** | Architecture      | Enterprise systems            |
-| **Level 15** | Capstone          | Production-style project      |
-
-
-
-## Readmap 
+## Roadmap of JS
 
 ```
                     JAVASCRIPT
@@ -54,6 +34,28 @@
                         │
                 REAL-WORLD PROJECTS
 ```
+
+| Level        | Modules           | Focus                         |
+| ------------ | ----------------- | ----------------------------- |
+| **Level 1**  | Fundamentals      | Programming basics            |
+| **Level 2**  | Core JavaScript   | Functions, arrays, objects    |
+| **Level 3**  | Modern JS         | ES6+                          |
+| **Level 4**  | Browser JS        | DOM & events                  |
+| **Level 5**  | Async JS          | Promises, async/await         |
+| **Level 6**  | APIs              | REST & Fetch                  |
+| **Level 7**  | Advanced JS       | Closures, prototypes, runtime |
+| **Level 8**  | Node.js           | Backend development           |
+| **Level 9**  | Testing           | Unit & integration testing    |
+| **Level 10** | Security          | Secure coding                 |
+| **Level 11** | Performance       | Optimization                  |
+| **Level 12** | TypeScript        | Enterprise development        |
+| **Level 13** | React | Application development       |
+| **Level 14** | Architecture      | Enterprise systems            |
+| **Level 15** | Capstone          | Production-style project      |
+
+
+
+
 
 ```
 Browser
