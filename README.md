@@ -2,7 +2,37 @@
 
 > **JavaScript is a high-level, dynamically typed, interpreted/JIT-compiled programming language primarily used to create interactive web applications.**
 
-## Where JavaScript runs
+## Readmap 
+
+```
+                    JAVASCRIPT
+                        │
+        ┌───────────────┴───────────────┐
+        │                               │
+   FUNDAMENTALS                    DEVELOPMENT
+        │                               │
+   Syntax & Types                  Browser / DOM
+   Operators                       APIs / Async
+   Control Flow                    Modules
+   Functions                       Tooling
+        │                               │
+        └───────────────┬───────────────┘
+                        │
+                  ADVANCED JS
+                        │
+          ┌─────────────┼─────────────┐
+          │             │             │
+       OOP           Async JS       ES6+
+          │             │             │
+          └─────────────┼─────────────┘
+                        │
+                 PROFESSIONAL
+                        │
+       Node.js • TypeScript • Testing
+       Performance • Security • Design
+                        │
+                REAL-WORLD PROJECTS
+```
 
 ```
 Browser
